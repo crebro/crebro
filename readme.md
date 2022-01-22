@@ -1,6 +1,6 @@
 ![Kreation Banner](/images/kreation_banner.png)
 
-> I am 14 and a devleoper stakced with technologies like Laravel, React, Fluter, and am really interested in working with python, php, dart and javascirpt.
+> I am 14 years ol and a devleoper stacked with technologies like Laravel, React, Fluter, and am really interested in working with python, php, dart and javascirpt.
 
 Here are some things you may want to know about me:
 
