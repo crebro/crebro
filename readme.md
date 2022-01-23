@@ -17,6 +17,6 @@ Here are some links as well:
 
 I like to keep everything I produce simple and easily availalbe for everyone to use,
 
-Check out the following pinned repositories to view my notable projects, but I shoul really make you aware, it was a mistake of mine to not have commited in the past year and I am looking forward to doing it more this following year.
+Check out the following pinned repositories to view my notable projects, but I should really make you aware, it was a mistake of mine to not have commited in the past year and I am looking forward to doing it more this following year.
 
 Thanks for reading boiz ✌
