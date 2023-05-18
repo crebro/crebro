@@ -6,8 +6,9 @@ Here are some things you may want to know about me:
 
 - 15 year old
 - Full stack web and mobile developer
-- Game Developer ( pygame, beginner in Unity )
+- Love working with pygame and p5.js
 - Aspiring Content Creator
+- Learning Manim
 
 Here are some links as well:
 
