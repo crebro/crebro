@@ -9,8 +9,9 @@ Here are some things you may want to know about me:
 - Love working with pygame and p5.js
 - Aspiring Content Creator
 - Learning Manim
+- Trying to improve my GitHub commit score 😫
 
-Here are some links as well:
+Here are some links:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/duwalkreation)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crebro)
@@ -19,6 +20,6 @@ Here are some links as well:
 
 I like to keep everything I produce simple and easily availalbe for everyone to use,
 
-Check out the following pinned repositories to view my notable projects, but I should really make you aware, it was a mistake of mine to not have commited in the past year and I am looking forward to doing it more this following year.
+Check out the following pinned repositories.
 
-Thanks for reading boiz ✌
+Peace ✌
