@@ -18,7 +18,7 @@ Here are some links:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCliXIi69MBphGgsxN693p0g)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creationduwal@gmail.com)
 
-I like to keep everything I produce simple and easily availalbe for everyone to use,
+I like to keep everything I produce simple and easily available for everyone to use,
 
 Check out the following pinned repositories.
 
