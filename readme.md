@@ -1,10 +1,10 @@
 ![Kreation Banner](/images/kreation_banner.png)
 
-> I am 15 years old and a developer stacked with technologies like Laravel, React, Fluter, and am really interested in working with python, php, dart and javascirpt.
+> Me: A developer stacked with technologies like Laravel, React, Fluter, and am really interested in working with python, php, dart and javascirpt.
 
-Here are some things you may want to know about me:
+Also Me:
 
-- 15 year old
+- 16 y/o
 - Full stack web and mobile developer
 - Love working with pygame and p5.js
 - Aspiring Content Creator
