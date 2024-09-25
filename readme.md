@@ -1,4 +1,4 @@
-![Kreation Banner](/images/kreation_banner.png)
+![Creation Duwal Banner](/images/cd_banner_v2.png)
 
 > Me: A developer stacked with technologies like Laravel, React, Fluter, and am really interested in working with python, php, dart and javascirpt.
 
