@@ -4,11 +4,11 @@
 
 Also Me:
 
-- 16 y/o
+- 17 y/o
 - Full stack web and mobile developer
 - Love working with pygame and p5.js
 - Aspiring Content Creator
-- Learning Manim
+- Exploring AI ✨
 - Trying to improve my GitHub commit score 😫
 
 Here are some links:
